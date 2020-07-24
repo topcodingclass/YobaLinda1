@@ -1,5 +1,10 @@
 import pygame
 
+''' This will make a bouncyball game with pygame
+    Paul Hwang
+    05/12/2020
+'''
+
 #Initiate game
 pygame.init()
 #Create a screen size 800*600
